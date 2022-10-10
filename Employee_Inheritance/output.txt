@@ -1,0 +1,91 @@
+Name: Juno
+ID: 25037
+Phone: 911
+Age: 19
+Gender M
+Job: Student
+Salary: 0
+Date: 
+Month: 3
+Day: 2003
+Year: 12
+
+
+Name: Buno
+ID: 250370
+Phone: 9110
+Age: 190
+Gender M
+Job: Junior Engineer
+Salary: 100000
+Date: 
+Month: 30
+Day: 20030
+Year: 120
+
+
+Name: Juno Lee
+ID: 25037
+Phone: 911
+Age: 19
+Gender M
+Job: Programmer
+Salary: 10
+Date: 
+Month: 3
+Day: 2003
+Year: 12
+Department Number: 1
+Supervisor: Juno Sr.
+Salary Increase 200
+Java Experience: 1
+CPP Experience: 1
+
+Name: Buno
+ID: 250370
+Phone: 9110
+Age: 190
+Gender M
+Job: Junior Engineer
+Salary: 100000
+Date: 
+Month: 30
+Day: 20030
+Year: 120
+Department Number: 100
+Supervisor: Jujujuno
+Salary Increase 400
+Java Experience: 0
+CPP Experience: 0
+
+Name: Juno Lee
+ID: 25037
+Phone: 119
+Age: 19
+Gender M
+Job: Sigma landlord
+Salary: 2.5e+06
+Date: 
+Month: 3
+Day: 2003
+Year: 12
+Department Number: 2
+Supervisor: Myself
+Salary Increase: 800
+Years of Software Architecture Experience: 3
+
+Name: Buno
+ID: 250370
+Phone: 9110
+Age: 190
+Gender M
+Job: Junior Engineer
+Salary: 100000
+Date: 
+Month: 30
+Day: 20030
+Year: 120
+Department Number: 100
+Supervisor: Jujujuno
+Salary Increase: 400
+Years of Software Architecture Experience: 4
